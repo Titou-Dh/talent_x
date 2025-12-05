@@ -1,0 +1,112 @@
+{
+    "HomePage": {
+        "title": "Welcome",
+        "subtitle": "The future of recruitment",
+        "cta": "Explore Talents",
+        "authenticate": "Authenticate"
+    },
+    "Auth": {
+        "login": "Login",
+        "register": "Register",
+        "email": "Email",
+        "password": "Password",
+        "name": "Name",
+        "submit": "Submit",
+        "noAccount": "No account? Create Record.",
+        "hasAccount": "Already have an account? Login."
+    },
+    "Navigation": {
+        "home": "Home",
+        "talents": "Talents",
+        "map": "Map",
+        "dashboard": "Dashboard",
+        "admin": "Admin",
+        "logout": "Logout",
+        "login": "Login"
+    },
+    "Dashboard": {
+        "welcome": "Welcome",
+        "yourProfile": "Your Profile",
+        "createProfile": "Create Profile",
+        "editProfile": "Edit",
+        "noProfile": "No profile found. Create your talent profile to be discovered.",
+        "displayName": "Display Name",
+        "headline": "Headline",
+        "headlinePlaceholder": "e.g., Full Stack Developer | AI Enthusiast",
+        "bio": "Bio",
+        "projects": "Projects",
+        "projectsPlaceholder": "Describe your notable projects...",
+        "skills": "Skills",
+        "addSkill": "Add a skill...",
+        "languages": "Languages",
+        "addLanguage": "Add a language...",
+        "availability": "Availability",
+        "availabilityOptions": {
+            "available": "Available",
+            "openToOffers": "Open to offers",
+            "busy": "Busy",
+            "notAvailable": "Not available"
+        },
+        "location": "Location",
+        "city": "City",
+        "cityPlaceholder": "e.g., Paris",
+        "country": "Country",
+        "countryPlaceholder": "e.g., France",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "remoteAvailable": "Available for remote work",
+        "selectPosition": "Select Position on Map",
+        "clickToSelectPosition": "Click on the map to select your position",
+        "selectedPosition": "Selected position",
+        "save": "Save Profile",
+        "saving": "Saving...",
+        "cancel": "Cancel",
+        "viewPublic": "View Public Profile",
+        "role": "Role",
+        "sessionActive": "Session: Active",
+        "verified": "Verified"
+    },
+    "Talents": {
+        "title": "Talent Directory",
+        "recordsFound": "records found",
+        "noRecords": "No records found",
+        "beFirst": "Be the first to",
+        "createProfile": "create a profile",
+        "backToDirectory": "Back to Directory",
+        "status": "Status",
+        "recordCreated": "Record created"
+    },
+    "Map": {
+        "title": "Talent Map",
+        "subtitle": "Geographic distribution of talents",
+        "module": "Map Module",
+        "underConstruction": "Under construction",
+        "comingSoon": "Interactive world map showing talent locations will be available in the next system update.",
+        "countries": "Countries",
+        "cities": "Cities",
+        "remoteTalents": "Remote Talents",
+        "totalTalents": "Total Talents",
+        "viewProfile": "View Profile",
+        "noTalents": "No talents with location data yet"
+    },
+    "Admin": {
+        "title": "Admin Console",
+        "user": "User",
+        "verified": "Verified",
+        "actions": "Actions",
+        "toggle": "Toggle",
+        "verify": "Verify",
+        "unverify": "Unverify",
+        "delete": "Delete",
+        "confirmDelete": "Are you sure you want to delete the profile of {name}? This action cannot be undone.",
+        "true": "True",
+        "false": "False",
+        "totalProfiles": "Total Profiles",
+        "noProfiles": "No profiles found"
+    },
+    "Common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "back": "Back"
+    }
+}

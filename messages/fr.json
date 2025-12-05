@@ -1,0 +1,112 @@
+{
+    "HomePage": {
+        "title": "Bienvenue",
+        "subtitle": "Le futur du recrutement",
+        "cta": "Explorer les Talents",
+        "authenticate": "Connexion"
+    },
+    "Auth": {
+        "login": "Connexion",
+        "register": "S'inscrire",
+        "email": "Email",
+        "password": "Mot de passe",
+        "name": "Nom",
+        "submit": "Valider",
+        "noAccount": "Pas de compte ? Créer un dossier.",
+        "hasAccount": "Déjà un compte ? Connexion."
+    },
+    "Navigation": {
+        "home": "Accueil",
+        "talents": "Talents",
+        "map": "Carte",
+        "dashboard": "Tableau de bord",
+        "admin": "Admin",
+        "logout": "Déconnexion",
+        "login": "Connexion"
+    },
+    "Dashboard": {
+        "welcome": "Bienvenue",
+        "yourProfile": "Votre Profil",
+        "createProfile": "Créer un Profil",
+        "editProfile": "Modifier",
+        "noProfile": "Aucun profil trouvé. Créez votre profil pour être découvert.",
+        "displayName": "Nom d'affichage",
+        "headline": "Titre",
+        "headlinePlaceholder": "ex: Développeur Full Stack | Passionné d'IA",
+        "bio": "Bio",
+        "projects": "Projets",
+        "projectsPlaceholder": "Décrivez vos projets notables...",
+        "skills": "Compétences",
+        "addSkill": "Ajouter une compétence...",
+        "languages": "Langues",
+        "addLanguage": "Ajouter une langue...",
+        "availability": "Disponibilité",
+        "availabilityOptions": {
+            "available": "Disponible",
+            "openToOffers": "Ouvert aux offres",
+            "busy": "Occupé",
+            "notAvailable": "Non disponible"
+        },
+        "location": "Localisation",
+        "city": "Ville",
+        "cityPlaceholder": "ex: Paris",
+        "country": "Pays",
+        "countryPlaceholder": "ex: France",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "remoteAvailable": "Disponible pour le travail à distance",
+        "selectPosition": "Sélectionner la Position sur la Carte",
+        "clickToSelectPosition": "Cliquez sur la carte pour sélectionner votre position",
+        "selectedPosition": "Position sélectionnée",
+        "save": "Enregistrer le Profil",
+        "saving": "Enregistrement...",
+        "cancel": "Annuler",
+        "viewPublic": "Voir le Profil Public",
+        "role": "Rôle",
+        "sessionActive": "Session: Active",
+        "verified": "Vérifié"
+    },
+    "Talents": {
+        "title": "Répertoire des Talents",
+        "recordsFound": "enregistrements trouvés",
+        "noRecords": "Aucun enregistrement trouvé",
+        "beFirst": "Soyez le premier à",
+        "createProfile": "créer un profil",
+        "backToDirectory": "Retour au Répertoire",
+        "status": "Statut",
+        "recordCreated": "Dossier créé"
+    },
+    "Map": {
+        "title": "Carte des Talents",
+        "subtitle": "Distribution géographique des talents",
+        "module": "Module Carte",
+        "underConstruction": "En construction",
+        "comingSoon": "La carte interactive montrant les emplacements des talents sera disponible dans la prochaine mise à jour.",
+        "countries": "Pays",
+        "cities": "Villes",
+        "remoteTalents": "Talents à Distance",
+        "totalTalents": "Total des Talents",
+        "viewProfile": "Voir le Profil",
+        "noTalents": "Aucun talent avec des données de localisation"
+    },
+    "Admin": {
+        "title": "Console Admin",
+        "user": "Utilisateur",
+        "verified": "Vérifié",
+        "actions": "Actions",
+        "toggle": "Basculer",
+        "verify": "Vérifier",
+        "unverify": "Retirer",
+        "delete": "Supprimer",
+        "confirmDelete": "Êtes-vous sûr de vouloir supprimer le profil de {name} ? Cette action est irréversible.",
+        "true": "Vrai",
+        "false": "Faux",
+        "totalProfiles": "Total des Profils",
+        "noProfiles": "Aucun profil trouvé"
+    },
+    "Common": {
+        "loading": "Chargement...",
+        "error": "Erreur",
+        "back": "Retour"
+    }
+}
