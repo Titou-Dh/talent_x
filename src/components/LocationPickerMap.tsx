@@ -3,7 +3,6 @@
 import { useRef } from "react";
 import { MapContainer, TileLayer, Marker, useMapEvents } from "react-leaflet";
 import L from "leaflet";
-// @ts-expect-error - Leaflet CSS import
 import "leaflet/dist/leaflet.css";
 
 // Fix for default marker icons in Leaflet with Next.js
